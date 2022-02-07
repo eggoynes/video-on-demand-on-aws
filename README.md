@@ -86,6 +86,19 @@ The only required field for the metadata file is the **srcVideo**. The workflow 
 ```
 
 The solution also supports adding additional metadata, such as title, genre, or any other information, you want to store in Amazon DynamoDB.
+## Video Turorials
+
+### Turotial 1:
+
+
+
+### Turotial 2:
+
+
+
+### Turotial 3:
+
+
 
 ## Encoding Templates
 At launch the Solution creates 3 MediaConvert job templates which are used as the default encoding templates for the workflow:
@@ -148,7 +161,11 @@ For more detail please see [Accelerated Transcoding](https://docs.aws.amazon.com
 > ./source/mediainfo/bin/mediainfo must be made executable before deploying to lambda.
 
 ## Creating a custom build
-The solution can be deployed through the CloudFormation template available on the solution home page: [Video on Demand on AWS](https://aws.amazon.com/answers/media-entertainment/video-on-demand-on-aws/).
+The solution can be deployed through the CloudFormation template available on the solution home page: [Video on Demand on AWS](https://aws.amazo
+
+Uploading VideoTutorial1.mp4…
+
+n.com/answers/media-entertainment/video-on-demand-on-aws/).
 To make changes to the solution, download or clone this repo, update the source code and then run the deployment/build-s3-dist.sh script to deploy the updated Lambda code to an Amazon S3 bucket in your account.
 
 ### Prerequisites:
