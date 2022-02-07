@@ -88,15 +88,24 @@ The only required field for the metadata file is the **srcVideo**. The workflow 
 The solution also supports adding additional metadata, such as title, genre, or any other information, you want to store in Amazon DynamoDB.
 ## Video Turorials
 
-### Turotial 1:
+### Turotial: Part 1 introduction to Video on Demand on AWS 
 
 
 
-### Turotial 2:
+
+
+### Turotial: Part 2 deep dive into Solution
 
 
 
-### Turotial 3:
+
+
+
+### Turotial: Part 3 MetaData explained
+
+
+
+
 
 
 
